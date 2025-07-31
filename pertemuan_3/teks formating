@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>text formating</title>
+  </head>
+  <body>
+    <h1>berlajar text formating</h1>
+    <p>
+      Lorem <b>ipsum</b> dolor <i>sit</i> amet <u><b>consectetur</b></u>, <small>adipisicing</small> elit. Corporis, error
+      <strong>perferendis</strong> <sub>asperiores</sub> officia harum, <sup>provident</sup> impedit <ins>obcaecati</ins> sit ad
+      <del>aspernatur</del> quia? Esse odit minus harum fugit optio <mark>quibusdam</mark> aspernatur
+      quidem!
+    </p>
+
+  </body>
+</html>
