@@ -1,0 +1,24 @@
+.seet-1{
+    background: url(/CSS/asset/img/lin-mei-NYyCqdBOKwc-unsplash.jpg) no-repeat center  center/cover ;
+   height: 450px;
+   text-align: center   ;
+   padding: 10px 20px;
+   color: white;
+   font-size: xx-large;
+
+}   
+.seet-1 h1,h2{
+  font-family: "Epunda Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  padding-top:100px ;
+
+
+}
+body{
+    text-align: center  ;
+}
+p{
+    padding: 40px;
+}
