@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 24px; 
+  color: #000000;
+}
+
+.px-text {
+  font-size: 20px; 
+  color: #0055ff;
+}
+
+.em-text {
+  font-size: 2em; 
+}
+
+.container {
+  font-size: 16px; 
+  background-color: #e0e0e0;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.container .nested {
+  font-size: 1.5em; 
+  color: #008800;
+}
