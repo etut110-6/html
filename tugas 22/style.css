@@ -1,0 +1,26 @@
+body{
+   
+    justify-items: center;
+}
+.hero img{
+    width: 200px;
+    border-radius: 400px;
+
+}
+.hero{
+   
+   
+   width: 400px;
+
+    
+}
+
+.card{
+  width: 400px;
+  justify-items: center  ;
+  
+
+
+
+    
+}
